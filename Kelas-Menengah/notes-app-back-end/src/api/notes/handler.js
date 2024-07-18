@@ -1,8 +1,9 @@
 class NotesHandler {
   constructor(service, validator) {
     this._service = service;
-    this._validator = validator
+    this._validator = validator;
 
+    // Menetapkan konteks "this" pada class ini supaya "this" tidak dianggap kelas lain.
     this.postNoteHandler = this.postNoteHandler.bind(this);
     this.getNotesHandler = this.getNotesHandler.bind(this);
     this.getNoteByIdHandler = this.getNoteByIdHandler.bind(this);
