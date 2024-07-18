@@ -13,6 +13,7 @@
         "no-console": "off",
         "linebreak-style": 0,
         "no-underscore-dangle": "off",
-        "quotes": "off"
+        "quotes": "off",
+        "eslint-plugin-import/no-extraneous-dependencies": "off",
     }
 }
