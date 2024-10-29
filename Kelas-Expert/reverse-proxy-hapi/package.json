@@ -1,0 +1,16 @@
+{
+  "name": "reverse-proxy-hapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/h2o2": "^10.0.4",
+    "@hapi/hapi": "^21.3.12"
+  }
+}
