@@ -1,0 +1,4 @@
+{"level":"info","message":"userIP=::1, host=LAPTOP-Axel, method=get, path=/, payload=undefined","timestamp":"2024-10-30 21:22:38"}
+{"level":"info","message":"userIP=::1, host=LAPTOP-Axel, method=get, path=/favicon.ico, payload=undefined","timestamp":"2024-10-30 21:22:38"}
+{"level":"info","message":"userIP=::1, host=LAPTOP-Axel, method=post, path=/notes, payload=undefined","timestamp":"2024-10-30 21:23:13"}
+{"level":"info","message":"userIP=::1, host=LAPTOP-Axel, method=post, path=/notes, payload={\"status\":\"success\",\"message\":\"Catatan berhasil ditambahkan\",\"data\":{\"noteId\":\"svEJXE3UnBM6D7h9\"}}","timestamp":"2024-10-30 21:24:11"}

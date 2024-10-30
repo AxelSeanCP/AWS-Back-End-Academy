@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "D:\\Self-Learning\\AWS-Back-End-Academy\\Kelas-Expert\\notes-api-logging\\src\\logger\\.7f12dec9e010d20838998641c93334cfb52b1d6d-audit.json",
+    "files": [
+        {
+            "date": 1730298152605,
+            "name": "D:\\Self-Learning\\AWS-Back-End-Academy\\Kelas-Expert\\notes-api-logging\\src\\logger\\application-2024-10-30-21.log",
+            "hash": "be0fbe3f39deb28818fb1022bf5280a7ec03134c5928c38d74956db8c6441cd1"
+        }
+    ],
+    "hashType": "sha256"
+}
